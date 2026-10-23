@@ -79,9 +79,9 @@ const PAUSE_DURATION = 2000;
 const WORDS = ["Network & Telecom Student", "Tech Enthusiast"];
 const TECH_STACK = ["React", "Javascript", "Node.js", "Tailwind"];
 const SOCIAL_LINKS = [
-  { icon: Github, link: "https://github.com/EkiZR", label: "GitHub Profile" },
-  { icon: Linkedin, link: "https://www.linkedin.com/in/ekizr/", label: "LinkedIn Profile" },
-  { icon: Instagram, link: "https://www.instagram.com/ekizr_/?hl=id", label: "Instagram Profile" }
+  { icon: Github, link: "https://github.com/GIOx2022", label: "GitHub Profile" },
+  { icon: Linkedin, link: "https://www.linkedin.com/in/subagiono-prakoso-1470a5259", label: "LinkedIn Profile" },
+  { icon: Instagram, link: "https://www.instagram.com/gioprks?srtk=YzVobDBzZ3VtbWs2", label: "Instagram Profile" }
 ];
 
 const Home = () => {
@@ -140,25 +140,25 @@ const Home = () => {
   return (
     <>
       <Helmet>
-        <title>Eki Zulfar Rachman — Frontend Web Developer</title>
-        <meta name="description" content="Website resmi Eki Zulfar Rachman, Front-End Web Developer. Saya berfokus pada penciptaan pengalaman digital yang menarik dan selalu berupaya memberikan solusi terbaik dalam setiap proyek yang saya kerjakan." />
+        <title>Subagiono Prakoso — Fullstack & Android Developer</title>
+        <meta name="description" content="Portofolio resmi Subagiono Prakoso, Fullstack & Android Developer. Berfokus pada pengembangan aplikasi Android dan solusi web modern yang efisien dan responsif." />
      <meta name="robots" content="index, follow" />
         <link rel="canonical" href="https://ekizr.com" />
-        <meta property="og:title" content="Eki Zulfar Rachman — Frontend Web Developer" />
-     <meta property="og:description" content="Website resmi dan portofolio Eki Zulfar Rachman, Front-End Web Developer." />
+        <meta property="og:title" content="Subagiono Prakoso — Fullstack & Android Developer" />
+     <meta property="og:description" content="Website resmi dan portofolio Subagiono Prakoso, Fullstack & Android Developer." />
         <meta property="og:url" content="https://ekizr.com" />
         <meta property="og:type" content="website" />
         <script type="application/ld+json">{`
           {
             "@context": "https://schema.org",
             "@type": "Person",
-            "name": "Eki Zulfar Rachman",
-            "jobTitle": "Frontend Developer",
+            "name": "Subagiono Prakoso",
+            "jobTitle": "Fullstack & Android Developer",
             "url": "https://ekizr.com",
             "sameAs": [
-              "https://github.com/EkiZR",
-              "https://www.linkedin.com/in/ekizr/",
-              "https://www.instagram.com/ekizr_/"
+              "https://github.com/GIOx2022",
+              "https://www.linkedin.com/in/subagiono-prakoso-1470a5259",
+              "https://www.instagram.com/gioprks?srtk=YzVobDBzZ3VtbWs2"
             ]
           }
         `}</script>
